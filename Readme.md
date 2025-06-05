@@ -1,4 +1,4 @@
-'''# 🚀 Superstore Sales Adventure: An Interactive Dashboard Journey! 📊
+''' 🚀 Superstore Sales Adventure: An Interactive Dashboard Journey! 📊
 
 Hey there, fellow data explorer! 👋
 
